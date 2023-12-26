@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.makeagif.com/media/9-02-2016/ij0LMG.gif))](https://www.linkedin.com/in/davi-hilário-ab2082265/)
+[![MasterHead](https://i.makeagif.com/media/9-02-2016/ij0LMG.gif)](https://www.linkedin.com/in/davi-hilário-ab2082265/)
 <h1 align="center">Hi 👋, I'm Davi Hilário</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJkM2JjODkxdWM4dG5lZnBscThlbTBlaTFuaTkwNDUzNHA3M28yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
