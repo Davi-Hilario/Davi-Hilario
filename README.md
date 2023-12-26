@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Davi Hilário</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img width="250" align="right" src="https://media1.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47dbeh4dti8uh69e49t9sfwuqnygmao4a5hqfmlwhn&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img width="200" align="right" src="https://media1.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47dbeh4dti8uh69e49t9sfwuqnygmao4a5hqfmlwhn&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davi-hilario&label=Profile%20views&color=0e75b6&style=flat" alt="davi-hilario" /> </p>
 
