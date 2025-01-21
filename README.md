@@ -1,6 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)](https://www.linkedin.com/in/davi-hilário-ab2082265/)
 
 <h1 align="center">Davi Alexandre de Souza Hilário</h1>
+
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/125586338?s=400&u=3a9662b51db76818b7f362fb3da8ed027d20ff67&v=4" alt="davi-hilario" width="300"/> </p>
+
 <h3 align="center"><i>"Glory comes with desire, creativity leads to innovation"</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davi-hilario&label=Profile%20views&color=0e75b6&style=flat" alt="davi-hilario" /> </p>
 
