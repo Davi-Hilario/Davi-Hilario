@@ -1,28 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)](https://www.linkedin.com/in/davi-hilário-ab2082265/)
 
-<h1 align="center">Davi Hilário</h1>
-<h3 align="center">Glory comes with desire, criativity leads to innovation</h3>
-<img width="350" align="right" src="https://media1.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47dbeh4dti8uh69e49t9sfwuqnygmao4a5hqfmlwhn&ep=v1_stickers_search&rid=giphy.gif&ct=s">
-
+<h1 align="center">Davi Alexandre de Souza Hilário</h1>
+<h3 align="center"><i>"Glory comes with desire, creativity leads to innovation"</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davi-hilario&label=Profile%20views&color=0e75b6&style=flat" alt="davi-hilario" /> </p>
-
-```java
-package school.sptech;
-
-public class Developer {
-
-    private String name;
-    private Integer age;
-    private String role;
-
-    public Developer() {
-        this.name = "Davi Alexandre de Souza Hilário";
-        this.age = 19;
-        this.role = "Back-End Developer";
-    }
-
-}
-```
 
 - 🌱 I’m currently learning **Spring boot**
 
